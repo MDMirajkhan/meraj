@@ -1,0 +1,4 @@
+Fix user data not loading issue
+
+- Correct API endpoint URL
+- Add error handling for failed data fetch
