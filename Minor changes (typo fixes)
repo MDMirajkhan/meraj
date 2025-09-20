@@ -1,0 +1,5 @@
+Fix user data not loading issue
+
+- Corrected API endpoint URL in data fetch function
+- Added error handling for failed data requests
+- Updated state management to ensure proper rendering
