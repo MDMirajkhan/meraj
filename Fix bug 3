@@ -1,0 +1,4 @@
+Fix user data not loading issue in dashboard
+
+- Updated API call parameters to match backend changes
+- Improved error logging for easier debugging
