@@ -1,0 +1,4 @@
+Fix crash on app startup caused by null pointer
+
+- Added null checks in initialization code
+- Improved error logging for easier debugging
