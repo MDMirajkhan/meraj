@@ -1,0 +1,4 @@
+Fix bug preventing user data from displaying
+
+- Corrected state update after API response
+- Fixed typo in variable name affecting data rendering
