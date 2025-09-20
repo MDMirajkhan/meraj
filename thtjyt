@@ -1,0 +1,5 @@
+Add password reset feature
+
+- Implemented password reset email flow
+- Added validation for reset token
+- Updated UI for reset password page
